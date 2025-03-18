@@ -7,6 +7,7 @@
         public string Position { get; set; }
         public decimal Salary { get; set; }
         public decimal Salary2 { get; set; }
+        public decimal Salary3 { get; set; }
 
     }
 
